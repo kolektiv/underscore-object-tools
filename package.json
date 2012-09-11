@@ -1,6 +1,6 @@
 {
     "name": "underscore-object-tools",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Andrew Cherry <andrew@xyncro.com>",  
     "description": "Extra functionality which can be mixed in to underscore.js for work with deep objects, etc.",
     "contributors": [
